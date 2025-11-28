@@ -212,12 +212,16 @@ serve -s prod-build
 
 ---
 
-# 🎉 Final Result
+## 📌 Author Notes
 
-✔ JS code is protected
-✔ Tokens & user info fully encrypted
-✔ No breaking changes in app
-✔ Smooth & secure production deployment
+This solution is written by me after studying multiple resources, testing everything step-by-step, and ensuring a fully working production setup.
+
+Official CRA Documentation (Deployment Guide):
+🔗 [https://cra.link/deployment](https://cra.link/deployment)
+
+YouTube reference I used during research:
+🔗 [https://youtu.be/ZRcV2xY7Xcg?si=Kg7YPZVLJvx4hFyF](https://youtu.be/ZRcV2xY7Xcg?si=Kg7YPZVLJvx4hFyF)
+
 
 ---
 
